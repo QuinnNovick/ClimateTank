@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content= "width=device-width">
     <meta name="description" content="Building Applicable Solutions for Real World Problems">
-    <meta name="keywords" content="Applicable Solutions, Real World Problems, Bulding Applicable Solutions">
+    <meta name="keywords" content="Applicable Solutions, Real World Problems, Building Applicable Solutions">
     <meta name="author" content="Quinn Novick">
     <title>ClimateTank</title>
     <link rel="stylesheet" href="./css/<style.css"
@@ -45,15 +45,17 @@
     </section id="boxes"
       <div class= "container"
         <div class= box
-        <img src="./img/BlueTree.html.png"
+        <img src="./img/_BlueTree.html.png"
           <h3><HTML5 Markup</h3>
           <p> am tincidunt. Proin ultrices luctus tortor vel acedoalum<p>
         </div>
         <div class= "box"
+        <img src="./img/_BlueTree.html.png"
           <h3><HTML5 Markup</h3>
           <p> am tincidunt. Proin ultrices luctus tortor vel acedoalum<p>
         </div>
         <div class= "box"
+          <img src="./img/_BlueTree.html.png"
           <h3>Graphic Design</h3>
           <p> am tincidunt. Proin ultrices luctus tortor vel acedoalum<p>          
       </div>
@@ -62,6 +64,12 @@
 <html>
     <div class="container"
       <h1> 
+
+
+
+  
+  </body>
+</html>
 
 
   
